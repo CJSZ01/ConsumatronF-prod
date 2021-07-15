@@ -1848,6 +1848,7 @@ ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 args
+intl
 logging
 
 Copyright 2013, the Dart project authors. All rights reserved.
@@ -4912,7 +4913,6 @@ matcher
 path
 pool
 pub_semver
-shelf
 shelf_web_socket
 source_span
 stack_trace
@@ -5186,6 +5186,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 cloud_firestore_web
+firebase_auth
+firebase_auth_platform_interface
+firebase_auth_web
 firebase_core
 firebase_core_platform_interface
 
@@ -5816,6 +5819,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 dart_style
+shelf
 
 Copyright 2014, the Dart project authors. 
 
